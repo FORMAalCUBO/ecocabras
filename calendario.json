@@ -1,4 +1,6 @@
 {
+  "versione": 1,
+  "info_rifiuti": {
   "comune": "Cabras",
   "ultimo_aggiornamento": "2026-03-01",
   "zone": [
@@ -132,4 +134,4 @@
     { "data": "2026-05-01", "rifiuto": "Nessuna raccolta", "nota": "Festa del Lavoro" },
     { "data": "2026-05-02", "rifiuto_centro": "Vetro e Lattine + Carta e Cartone", "rifiuto_periferia": "Vetro e Lattine", "nota": "Recupero post 1 Maggio" }
   ]
-}
+},
