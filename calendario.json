@@ -1,6 +1,5 @@
 {
   "versione": 1,
-  "categorie_rifiuti": {
   "comune": "Cabras",
   "ultimo_aggiornamento": "2026-03-01",
   "zone": [
@@ -27,7 +26,7 @@
       "dom": "Nessuna raccolta"
     }
   },
-  "categorie_rifiuti": {
+  "info_rifiuti": {
     "Umido": {
       "colore": "#795548",
       "si": ["Avanzi di cibo", "Bucce di frutta", "Fondi di caffè", "Fiori recisi", "Guscio d'uovo", "Pane vecchio", "Lische e ossa", "Fazzoletti sporchi"],
@@ -134,5 +133,4 @@
     { "data": "2026-05-01", "rifiuto": "Nessuna raccolta", "nota": "Festa del Lavoro" },
     { "data": "2026-05-02", "rifiuto_centro": "Vetro e Lattine + Carta e Cartone", "rifiuto_periferia": "Vetro e Lattine", "nota": "Recupero post 1 Maggio" }
   ]
-  }
 }
