@@ -1,0 +1,135 @@
+{
+  "comune": "Cabras",
+  "ultimo_aggiornamento": "2026-03-01",
+  "zone": [
+    "Centro Abitato",
+    "Periferie e Marine"
+  ],
+  "calendari": {
+    "Centro Abitato": {
+      "lun": "Umido",
+      "mar": "Secco",
+      "mer": "Plastica",
+      "gio": "Umido",
+      "ven": "Carta e Cartone (settimane alterne)",
+      "sab": "Vetro e Lattine",
+      "dom": "Nessuna raccolta"
+    },
+    "Periferie e Marine": {
+      "lun": "Umido",
+      "mar": "Secco",
+      "mer": "Plastica",
+      "gio": "Umido",
+      "ven": "Vetro e Lattine (settimane alterne)",
+      "sab": "Nessuna raccolta",
+      "dom": "Nessuna raccolta"
+    }
+  },
+  "info_rifiuti": {
+    "Umido": {
+      "colore": "#795548",
+      "si": ["Avanzi di cibo", "Bucce di frutta", "Fondi di caffè", "Fiori recisi", "Guscio d'uovo", "Pane vecchio", "Lische e ossa", "Fazzoletti sporchi"],
+      "no": ["Sacchetti plastica", "Pannolini", "Lettiere animali", "Carta patinata", "Gomme da masticare"]
+    },
+    "Secco": {
+      "colore": "#424242",
+      "si": ["Pannolini e assorbenti", "Mozziconi spenti", "CD e DVD", "Spazzolini e pettini", "Scontrini", "Cerotti e bende", "Lamette rasoio", "Polvere"],
+      "no": ["Tutti i riciclabili", "Pile e batterie", "Medicinali", "Rifiuti ingombranti"]
+    },
+    "Carta e Cartone": {
+      "colore": "#F57C00",
+      "si": ["Giornali e riviste", "Scatole cartone", "Tetrapak (latte/succo)", "Buste di carta", "Quaderni", "Volantini pubblicitari"],
+      "no": ["Carta forno", "Carta sporca di cibo", "Carta termica", "Sacchetti nylon", "Carta plastificata"]
+    },
+    "Plastica": {
+      "colore": "#2196F3",
+      "si": ["Bottiglie acqua/bibite", "Flaconi detersivi", "Vaschette cibo", "Piatti e bicchieri", "Retine per frutta", "Vasetti yogurt", "Confezioni pasta"],
+      "no": ["Giocattoli", "Posate plastica", "Custodie CD", "Tubetti dentifricio", "Manufatti in gomma"]
+    },
+    "Vetro e Lattine": {
+      "colore": "#4CAF50",
+      "si": ["Bottiglie vetro", "Barattoli vetro", "Vasetti conserve", "Lattine bibite", "Scatole pelati/tonno", "Tappi corona", "Vaschette alluminio"],
+      "no": ["Lampadine", "Ceramica e porcellana", "Cristallo", "Specchi", "Pirex"]
+    }
+  },
+  "dove_lo_butto": [
+    {"oggetto": "Accendino", "dove": "Secco"},
+    {"oggetto": "Aghi e siringhe", "dove": "Secco (protetti)"},
+    {"oggetto": "Alluminio (fogli/vaschette)", "dove": "Vetro e Lattine"},
+    {"oggetto": "Assorbenti", "dove": "Secco"},
+    {"oggetto": "Batterie", "dove": "Ecocentro / Rivenditori"},
+    {"oggetto": "Bicchieri di plastica", "dove": "Plastica"},
+    {"oggetto": "Bicchieri di vetro", "dove": "Vetro e Lattine"},
+    {"oggetto": "Bombolette spray (vuote)", "dove": "Plastica"},
+    {"oggetto": "Bottiglie di vetro", "dove": "Vetro e Lattine"},
+    {"oggetto": "Bottiglie di plastica", "dove": "Plastica"},
+    {"oggetto": "Calze di nylon", "dove": "Secco"},
+    {"oggetto": "Candele", "dove": "Secco"},
+    {"oggetto": "Capelli", "dove": "Umido"},
+    {"oggetto": "Carta forno", "dove": "Secco"},
+    {"oggetto": "Carta carbone", "dove": "Secco"},
+    {"oggetto": "Carta sporca di cibo", "dove": "Umido"},
+    {"oggetto": "CD / DVD", "dove": "Secco"},
+    {"oggetto": "Ceneri (spente)", "dove": "Umido"},
+    {"oggetto": "Cerotti", "dove": "Secco"},
+    {"oggetto": "Chiodi", "dove": "Ecocentro / Metallo"},
+    {"oggetto": "Colori acrilici", "dove": "Ecocentro"},
+    {"oggetto": "Cover cellulare", "dove": "Secco"},
+    {"oggetto": "Cristallo (calici/specchi)", "dove": "Secco"},
+    {"oggetto": "Cuoio", "dove": "Secco"},
+    {"oggetto": "Detersivi (contenitori)", "dove": "Plastica"},
+    {"oggetto": "Dischetti struccanti", "dove": "Secco"},
+    {"oggetto": "Escrementi animali", "dove": "Secco"},
+    {"oggetto": "Fazzoletti usati", "dove": "Umido"},
+    {"oggetto": "Fiammiferi", "dove": "Umido"},
+    {"oggetto": "Fiori", "dove": "Umido"},
+    {"oggetto": "Gommapiuma", "dove": "Secco"},
+    {"oggetto": "Gomme da masticare", "dove": "Secco"},
+    {"oggetto": "Gusci d'uovo", "dove": "Umido"},
+    {"oggetto": "Gusci di crostacei", "dove": "Umido"},
+    {"oggetto": "Inchiostro (cartucce)", "dove": "Ecocentro / Rivenditori"},
+    {"oggetto": "Lampadine", "dove": "Ecocentro"},
+    {"oggetto": "Lattine", "dove": "Vetro e Lattine"},
+    {"oggetto": "Lettiere gatto (bio)", "dove": "Umido"},
+    {"oggetto": "Lettiere gatto (tradizionali)", "dove": "Secco"},
+    {"oggetto": "Legno (piccoli pezzi)", "dove": "Umido"},
+    {"oggetto": "Medicinali scaduti", "dove": "Farmacie"},
+    {"oggetto": "Mozziconi sigaretta", "dove": "Secco"},
+    {"oggetto": "Occhiali", "dove": "Secco"},
+    {"oggetto": "Olio da cucina", "dove": "Ecocentro"},
+    {"oggetto": "Ombrelli", "dove": "Secco / Ecocentro"},
+    {"oggetto": "Ovatta", "dove": "Secco"},
+    {"oggetto": "Pannolini", "dove": "Secco"},
+    {"oggetto": "Penne", "dove": "Secco"},
+    {"oggetto": "Pettine", "dove": "Secco"},
+    {"oggetto": "Piatti plastica", "dove": "Plastica"},
+    {"oggetto": "Piatti ceramica", "dove": "Secco"},
+    {"oggetto": "Pile", "dove": "Ecocentro / Rivenditori"},
+    {"oggetto": "Polistirolo (alimentare)", "dove": "Plastica"},
+    {"oggetto": "Polistirolo (imballaggio)", "dove": "Plastica"},
+    {"oggetto": "Povere del sacco aspirapolvere", "dove": "Secco"},
+    {"oggetto": "Radiografie", "dove": "Ecocentro"},
+    {"oggetto": "Rasoi usa e getta", "dove": "Secco"},
+    {"oggetto": "Retine per frutta", "dove": "Plastica"},
+    {"oggetto": "Sacchetti del pane", "dove": "Carta e Cartone"},
+    {"oggetto": "Sacchetti di nylon", "dove": "Plastica"},
+    {"oggetto": "Salviette umidificate", "dove": "Secco"},
+    {"oggetto": "Scarpe", "dove": "Ecocentro / Contenitori Abiti"},
+    {"oggetto": "Scontrini", "dove": "Secco"},
+    {"oggetto": "Spazzolino", "dove": "Secco"},
+    {"oggetto": "Specchio", "dove": "Secco"},
+    {"oggetto": "Spugne", "dove": "Secco"},
+    {"oggetto": "Stoviglie in plastica", "dove": "Plastica"},
+    {"oggetto": "Tappi corona", "dove": "Vetro e Lattine"},
+    {"oggetto": "Tappi di sughero", "dove": "Umido"},
+    {"oggetto": "Tetrapak (succo/latte)", "dove": "Carta e Cartone"},
+    {"oggetto": "Tubetti dentifricio", "dove": "Plastica"},
+    {"oggetto": "Vasi terracotta", "dove": "Secco"},
+    {"oggetto": "Vestiti", "dove": "Ecocentro / Contenitori Abiti"},
+    {"oggetto": "Zerbino", "dove": "Ecocentro"}
+  ],
+  "eccezioni_2026": [
+    { "data": "2026-05-01", "rifiuto": "Nessuna raccolta", "nota": "Festa del Lavoro" },
+    { "data": "2026-05-02", "rifiuto_centro": "Vetro e Lattine + Carta e Cartone", "rifiuto_periferia": "Vetro e Lattine", "nota": "Recupero post 1 Maggio" }
+  ]
+}
