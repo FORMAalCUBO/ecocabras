@@ -1,6 +1,6 @@
 {
   "versione": 1,
-  "info_rifiuti": {
+  "categorie_rifiuti": {
   "comune": "Cabras",
   "ultimo_aggiornamento": "2026-03-01",
   "zone": [
@@ -27,7 +27,7 @@
       "dom": "Nessuna raccolta"
     }
   },
-  "info_rifiuti": {
+  "categorie_rifiuti": {
     "Umido": {
       "colore": "#795548",
       "si": ["Avanzi di cibo", "Bucce di frutta", "Fondi di caffè", "Fiori recisi", "Guscio d'uovo", "Pane vecchio", "Lische e ossa", "Fazzoletti sporchi"],
@@ -109,7 +109,7 @@
     {"oggetto": "Pile", "dove": "Ecocentro / Rivenditori"},
     {"oggetto": "Polistirolo (alimentare)", "dove": "Plastica"},
     {"oggetto": "Polistirolo (imballaggio)", "dove": "Plastica"},
-    {"oggetto": "Povere del sacco aspirapolvere", "dove": "Secco"},
+    {"oggetto": "Polvere del sacco aspirapolvere", "dove": "Secco"},
     {"oggetto": "Radiografie", "dove": "Ecocentro"},
     {"oggetto": "Rasoi usa e getta", "dove": "Secco"},
     {"oggetto": "Retine per frutta", "dove": "Plastica"},
@@ -134,4 +134,5 @@
     { "data": "2026-05-01", "rifiuto": "Nessuna raccolta", "nota": "Festa del Lavoro" },
     { "data": "2026-05-02", "rifiuto_centro": "Vetro e Lattine + Carta e Cartone", "rifiuto_periferia": "Vetro e Lattine", "nota": "Recupero post 1 Maggio" }
   ]
-},
+  }
+}
